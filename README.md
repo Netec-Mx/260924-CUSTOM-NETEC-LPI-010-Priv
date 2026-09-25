@@ -1,0 +1,2 @@
+# 260924-CUSTOM-NETEC-LPI-010-Priv
+Laboratorios del curso 260924-CUSTOM-NETEC-LPI-010-Priv
